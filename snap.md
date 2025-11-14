@@ -1,3 +1,7 @@
+layout: page
+title: "SNAP"
+permalink: /snap
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
